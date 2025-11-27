@@ -1,0 +1,8 @@
+type = circle
+initialShape = circle
+iteration = 0
+size = 3
+centerX = 0
+centerX = 0
+centerZ = 0
+offsetAngle = 1

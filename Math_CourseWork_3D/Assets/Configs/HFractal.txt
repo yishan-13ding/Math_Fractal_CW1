@@ -1,0 +1,9 @@
+type = h
+initialShape = line
+iteration = 0
+size = 4.0
+centerX = 0
+centerX = 0
+centerZ = 0
+offsetAngle = 0.01
+drawMode = line

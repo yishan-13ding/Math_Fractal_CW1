@@ -1,0 +1,9 @@
+type = koch
+initialShape = triangle
+iteration = 0
+size = 1
+centerX = 0
+centerY = 0
+centerZ = 0
+offsetAngle = 6.0
+drawMode = line

@@ -1,0 +1,9 @@
+type = hilbert
+initialShape = square
+iteration = 0
+size = 3.0
+centerX = 0
+centerX = 0
+centerZ = 0
+offsetAngle = 0.01
+drawMode = line

@@ -1,0 +1,9 @@
+type = t
+initialShape = vicsek
+iteration = 0
+size = 2.0
+centerX = 0
+centerX = 0
+centerZ = 0
+offsetAngle = 0.01
+drawMode = mesh
